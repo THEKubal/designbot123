@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"WelcomeMessege","temp":"mem1","event-type":"6","actions":[{"channel":"4","varName":"","message":"Witamy cię ${tempVars(\"mem1\")} na serwerze!","storage":"0","varName2":"","name":"Send Message"}]},{"name":"ByByMessege","temp":"mem2","event-type":"7","actions":[{"channel":"4","varName":"","message":"Szkoda, że odchodzisz ${tempVars(\"mem2\")}","storage":"0","varName2":"","name":"Send Message"}]}]
